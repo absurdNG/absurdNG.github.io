@@ -14,3 +14,10 @@ p{
     color:white;
     text-align:center;
 }
+.textspacing h1{
+       color: white;
+    margin:0;
+    padding:0;
+    text-align: center;
+     letter-spacing: 0px;
+}
