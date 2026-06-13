@@ -1,7 +1,7 @@
 body {
     background-color: black;
 }
-h1, h6 {
+h1, h6, h2{
     color: white;
     margin:0;
     padding:0;
